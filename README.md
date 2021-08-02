@@ -1,5 +1,5 @@
 # PILLDROP
-A outdated stupid easy stresser for Alicia Online
+An outdated stupid easy stresser for Alicia Online
 ## Note
 Use this at your own risk, as sending DDoS attacks is illegal in most countries and may get you charged if caught.
 
